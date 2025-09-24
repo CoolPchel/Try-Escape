@@ -4,7 +4,7 @@
 
 ---
 
-##**Внимание!** Этот репозиторий содержит **только код и настройки**.
+**Внимание!** Этот репозиторий содержит **только код и настройки**.
 
 Полный проект, можно скачать в Google Disk - https://drive.google.com/file/d/1axxqZ3awu1k_h4OvO4cPHonJNPvDZ7Nh/view?usp=sharing
 
@@ -16,8 +16,8 @@
 
 ---
 
-### Видео геймплея, доступен на YouTube - https://youtu.be/sfl1z6rDd2w
+## Видео геймплея, доступен на YouTube - https://youtu.be/sfl1z6rDd2w
 
 ---
 
-#### Автор Fenler
+## Автор Fenler
