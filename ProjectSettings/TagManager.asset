@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Points
+  - wol
+  - fire
+  - Trigger+
+  - Trigger-
+  - Scare
+  - FlorWood
+  - ItemKey
+  - AudioInventar
+  - Door
+  - DoorRed
+  - DoorGreen
+  - DoorOrange
+  - DoorOreng
+  - ItemCan
+  - ItemFonarik
+  - ZonaTp
+  - Tp
+  - ItemBigMetal
+  - Switch
+  - FlorGraz
+  - ItemButtory
+  - TableS
+  - item
+  - TrueLight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - arms
+  - Water
+  - UI
+  - Target
+  - WallObject
+  - NoLight
+  - LookDark
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
